@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/salary/static/css/main.7acaea2f.css",
-    "main.js": "/salary/static/js/main.07d3183d.js",
+    "main.css": "/salary/static/css/main.780e8665.css",
+    "main.js": "/salary/static/js/main.151aacb3.js",
     "index.html": "/salary/index.html",
-    "main.7acaea2f.css.map": "/salary/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/salary/static/js/main.07d3183d.js.map"
+    "main.780e8665.css.map": "/salary/static/css/main.780e8665.css.map",
+    "main.151aacb3.js.map": "/salary/static/js/main.151aacb3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.780e8665.css",
+    "static/js/main.151aacb3.js"
   ]
 }
