@@ -1,0 +1,21 @@
+.form__wrapper {
+  padding-bottom: 30px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.form__button {
+  width: 200px;
+  padding: 5px;
+  border-radius: 7px;
+}
+.form__error-input {
+  position: relative;
+  border: 2px solid red;
+}
+
+.form__error-message {
+  position: absolute;
+  margin-top: 10px;
+  font-size: 16px;
+}
